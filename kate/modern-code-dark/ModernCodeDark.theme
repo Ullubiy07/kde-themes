@@ -355,6 +355,17 @@
                 "selected-text-color": "#85e89d",
                 "text-color": "#85e89d"
             }
+        },
+        "YAML": {
+            "Attribute": {
+                "selected-text-color": "#9ecbff",
+                "text-color": "#9ecbff"
+            },
+            "Key": {
+                "bold": false,
+                "selected-text-color": "#de9876",
+                "text-color": "#de9876"
+            }
         }
     },
     "editor-colors": {
