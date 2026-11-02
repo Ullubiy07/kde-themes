@@ -294,6 +294,12 @@
                 "text-color": "#e1e4e8"
             }
         },
+        "SQL": {
+            "Keyword": {
+                "selected-text-color": "#de9876",
+                "text-color": "#de9876"
+            }
+        },
         "TSV": {
             "Column 4": {
                 "selected-text-color": "#b392f0",
