@@ -1,8 +1,14 @@
 {
     "custom-styles": {
         "Bash": {
+            "Option": {
+                "selected-text-color": "#56a8f5",
+                "text-color": "#56a8f5"
+            },
             "OtherCommand": {
-                "bold": false
+                "bold": false,
+                "selected-text-color": "#be9bff",
+                "text-color": "#be9bff"
             }
         },
         "C": {
@@ -209,6 +215,12 @@
             "Column 9 Separator": {
                 "selected-text-color": "#b392f0",
                 "text-color": "#b392f0"
+            }
+        },
+        "Dockerfile": {
+            "Keyword": {
+                "selected-text-color": "#de9876",
+                "text-color": "#de9876"
             }
         },
         "Go": {
