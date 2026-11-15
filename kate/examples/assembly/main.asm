@@ -1,4 +1,4 @@
-; Hello World — NASM, x86 32-bit Linux.
+; Hello World — Intel x86 (NASM).
 bits 32
 global _start
 

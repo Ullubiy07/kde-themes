@@ -250,6 +250,10 @@
             }
         },
         "Intel x86 (NASM)": {
+            "Instructions": {
+                "selected-text-color": "#de9876",
+                "text-color": "#de9876"
+            },
             "NASM Keywords": {
                 "selected-text-color": "#de9876",
                 "text-color": "#de9876"
